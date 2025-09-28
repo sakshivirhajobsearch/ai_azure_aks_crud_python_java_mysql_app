@@ -1,0 +1,62 @@
+# ==============================
+# Java / Maven
+# ==============================
+/target/
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+*.log
+*.out
+*.db
+*.DS_Store
+
+# Maven specific
+.mvn/
+.settings/
+*.ipr
+*.iws
+*.classpath
+
+# ==============================
+# Python
+# ==============================
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+pip-log.txt
+*.sqlite3
+
+# Processed Images (optional)
+image-analytics-python/processed_images/
+
+# ==============================
+# Uploads
+# ==============================
+uploads/
+
+# ==============================
+# Frontend / Node.js
+# ==============================
+node_modules/
+dist/
+*.cache
+*.tmp
+
+# ==============================
+# OS / IDE
+# ==============================
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# ==============================
+# Environment variables
+# ==============================
+.env

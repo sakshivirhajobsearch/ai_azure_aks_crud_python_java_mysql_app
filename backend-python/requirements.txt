@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+requests
+mysql-connector-python
+kubernetes
+scikit-learn
+pandas
+numpy
