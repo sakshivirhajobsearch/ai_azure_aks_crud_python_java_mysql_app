@@ -22,19 +22,19 @@ A fully customized architectural diagram has been generated for this project.
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+java, python
 
 ### **Frameworks**
-None
+flask
 
 ### **Machine Learning / AI Stack**
 None
 
 ### **Database Layer**
-None
+mysql
 
 ### **Cloud Providers / Services**
-None
+azure
 
 ### **DevOps / CI/CD**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **8**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
